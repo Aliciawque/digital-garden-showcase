@@ -26,7 +26,7 @@ Alicia 创作的免费 3D 互动花卉作品。打开浏览器，探索四季与
 
 ## 分享与使用
 
-个人参观免费。分享自己的拍摄作品时，请署名 **Digital Garden by Alicia** 并附 **https://digitalgarden.si/**。包含冬季雪声音频的短片还需保留额外署名，详见[使用说明](https://digitalgarden.si/zh/terms/)与[素材许可](https://digitalgarden.si/zh/credits/)。
+个人参观免费。分享自己的拍摄作品时，请署名 **Digital Garden by Alicia** 并附 [digitalgarden.si](https://digitalgarden.si/)。包含冬季雪声音频的短片还需保留额外署名，详见[使用说明](https://digitalgarden.si/zh/terms/)与[素材许可](https://digitalgarden.si/zh/credits/)。
 
 [网站商业授权](https://digitalgarden.si/zh/licensing/)和[品牌花园定制](https://digitalgarden.si/zh/custom-gardens/)采用询价与书面约定。
 

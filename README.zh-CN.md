@@ -24,6 +24,14 @@ Alicia 创作的免费 3D 互动花卉作品。打开浏览器，探索四季与
 
 [阅读双语创作手记](https://digitalgarden.si/zh/about/#making-of) · [手势、声音与拍摄指南](https://digitalgarden.si/zh/guide/)
 
+## AI 助手的 MCP 笔记入口
+
+公开只读 MCP 服务使用 Streamable HTTP，无需鉴权：`https://mcp.digitalgarden.si/mcp`。提供 `search_articles`、`get_article`、`list_topics`、`list_recent_articles`，可检索和阅读 Houdini、Three.js/WebGPU、glTF、OpenUSD 与 AI 工作流的中英文笔记，并返回原文规范链接。
+
+[连接指南与示例](https://digitalgarden.si/zh/agents/) · [技术博客](https://digitalgarden.si/blog/)
+
+本仓库仅保存展示说明，托管 MCP 是远程服务，此处不含可本地安装的服务端包。
+
 ## 分享与使用
 
 个人参观免费。分享自己的拍摄作品时，请署名 **Digital Garden by Alicia** 并附 [digitalgarden.si](https://digitalgarden.si/)。包含冬季雪声音频的短片还需保留额外署名，详见[使用说明](https://digitalgarden.si/zh/terms/)与[素材许可](https://digitalgarden.si/zh/credits/)。

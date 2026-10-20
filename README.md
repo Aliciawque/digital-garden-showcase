@@ -33,6 +33,18 @@ On a phone, a smaller circular patch keeps nearby flowers available for a full h
 
 [Read the making-of notes](https://digitalgarden.si/about/#making-of) · [Controls, audio and capture guide](https://digitalgarden.si/guide/)
 
+## MCP notes for AI assistants
+
+Digital Garden also provides a public, read-only MCP endpoint (Streamable HTTP, no authentication):
+
+`https://mcp.digitalgarden.si/mcp`
+
+Tools: `search_articles`, `get_article`, `list_topics`, `list_recent_articles`. Search or read Alicia’s English and Chinese notes on Houdini, three.js/WebGPU, glTF, OpenUSD and AI workflows, with canonical source URLs for citation.
+
+[Connection guide and examples](https://digitalgarden.si/agents/) · [Technical blog](https://digitalgarden.si/blog/)
+
+This repository contains showcase documentation. The hosted MCP service is remote-only; this repository does not contain an installable server package.
+
 ## Sharing and commercial use
 
 Personal exploration is free. For sharing your captures, credit **Digital Garden by Alicia** and link to **https://digitalgarden.si/**. Winter clips containing the snow recording also need its third-party attribution; see the [usage guide](https://digitalgarden.si/terms/) and [credits](https://digitalgarden.si/credits/).

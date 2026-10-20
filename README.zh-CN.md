@@ -24,6 +24,18 @@ Alicia 创作的免费 3D 互动花卉作品。打开浏览器，探索四季与
 
 [阅读双语创作手记](https://digitalgarden.si/zh/about/#making-of) · [手势、声音与拍摄指南](https://digitalgarden.si/zh/guide/)
 
+## 管线实测笔记 · 2026-10-20
+
+五篇新实测附原始测量、可复现下载包及失败与兼容性边界。文章正文为英文；结果只适用于本次工作站和指定任务，不作通用工具排名。
+
+- [Three.js WebGPU 与 WebGL：1,000 株植物](https://digitalgarden.si/blog/threejs-webgpu-vs-webgl-instanced-plants/)
+- [Houdini USD 与 glTF：浏览器功能检查](https://digitalgarden.si/blog/houdini-usd-vs-gltf-threejs/)
+- [Claude Code 与 Codex：同一道 Three.js 任务](https://digitalgarden.si/blog/claude-code-vs-codex-threejs/)
+- [Meshy 免费版到 Houdini：真实下载与清理](https://digitalgarden.si/blog/meshy-3d-agent-houdini-cleanup/)
+- [Spark、GaussianSplats3D 与 Three.js 原生加载](https://digitalgarden.si/blog/spark-vs-gaussiansplats3d-threejs/)
+
+[测量与复现包](https://digitalgarden.si/marketing/research/comparisons-20261020/results-2026-10-20.json)
+
 ## AI 助手的 MCP 笔记入口
 
 公开只读 MCP 服务使用 Streamable HTTP，无需鉴权：`https://mcp.digitalgarden.si/mcp`。提供 `search_articles`、`get_article`、`list_topics`、`list_recent_articles`，可检索和阅读 Houdini、Three.js/WebGPU、glTF、OpenUSD 与 AI 工作流的中英文笔记，并返回原文规范链接。

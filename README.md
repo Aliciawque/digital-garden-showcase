@@ -33,6 +33,18 @@ On a phone, a smaller circular patch keeps nearby flowers available for a full h
 
 [Read the making-of notes](https://digitalgarden.si/about/#making-of) · [Controls, audio and capture guide](https://digitalgarden.si/guide/)
 
+## Tested pipeline notes — 20 October 2026
+
+Five new tests include original measurements, reproducible downloads and explicit failure/compatibility limits. These are bounded workstation and pipeline cases, not universal tool rankings.
+
+- [Three.js WebGPU vs WebGL: 1,000 plants](https://digitalgarden.si/blog/threejs-webgpu-vs-webgl-instanced-plants/)
+- [Houdini USD vs glTF: browser feature checks](https://digitalgarden.si/blog/houdini-usd-vs-gltf-threejs/)
+- [Claude Code vs Codex: one paired Three.js task](https://digitalgarden.si/blog/claude-code-vs-codex-threejs/)
+- [Meshy Free to Houdini: the actual download and cleanup](https://digitalgarden.si/blog/meshy-3d-agent-houdini-cleanup/)
+- [Spark vs GaussianSplats3D vs native Three.js](https://digitalgarden.si/blog/spark-vs-gaussiansplats3d-threejs/)
+
+[Data and reproduction packages](https://digitalgarden.si/marketing/research/comparisons-20261020/results-2026-10-20.json)
+
 ## MCP notes for AI assistants
 
 Digital Garden also provides a public, read-only MCP endpoint (Streamable HTTP, no authentication):

@@ -24,6 +24,13 @@ Alicia 创作的免费 3D 互动花卉作品。打开浏览器，探索四季与
 
 [阅读双语创作手记](https://digitalgarden.si/zh/about/#making-of) · [手势、声音与拍摄指南](https://digitalgarden.si/zh/guide/)
 
+## 最新实测 · 2026-10-21
+
+- [植物实例化基准：1k、10k、100k](https://digitalgarden.si/benchmarks/threejs-webgpu-vs-webgl-instancing/)：每组五次的桌面测试，提供 CSV/JSON、明确失败记录和复现包。测量数据与图表采用 CC BY 4.0；没有声称已完成手机真机测试。
+- [免费 PINOC SPZ 接入 Three.js](https://digitalgarden.si/blog/viggle-jst2-spz-threejs-garden/)：同一生成花园实测原生 WebGPU、原生 WebGL2 fallback 与 Spark，包含加载、遮挡检查及 Spark/WebGPURenderer 的实际初始化失败。
+
+[机器可读的基准汇总](https://digitalgarden.si/benchmarks/data/threejs-instancing-v1-summary.json)。以上正文为英文，旧实验与原有记录保留。
+
 ## 管线实测笔记 · 2026-10-20
 
 五篇新实测附原始测量、可复现下载包及失败与兼容性边界。文章正文为英文；结果只适用于本次工作站和指定任务，不作通用工具排名。

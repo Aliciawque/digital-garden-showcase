@@ -33,6 +33,13 @@ On a phone, a smaller circular patch keeps nearby flowers available for a full h
 
 [Read the making-of notes](https://digitalgarden.si/about/#making-of) · [Controls, audio and capture guide](https://digitalgarden.si/guide/)
 
+## New measurements — 21 October 2026
+
+- [Plant instancing benchmark: 1k, 10k and 100k plants](https://digitalgarden.si/benchmarks/threejs-webgpu-vs-webgl-instancing/): five-repeat desktop matrix with CSV/JSON, explicit failures and a reproduction harness. The measurement data and chart are CC BY 4.0; no physical-phone results are claimed.
+- [Free PINOC SPZ in Three.js](https://digitalgarden.si/blog/viggle-jst2-spz-threejs-garden/): one generated garden tested with native WebGPU, native WebGL2 fallback and Spark. Includes actual loading/occlusion checks and the recorded Spark/WebGPURenderer initialization failure.
+
+[Machine-readable benchmark summary](https://digitalgarden.si/benchmarks/data/threejs-instancing-v1-summary.json)
+
 ## Tested pipeline notes — 20 October 2026
 
 Five new tests include original measurements, reproducible downloads and explicit failure/compatibility limits. These are bounded workstation and pipeline cases, not universal tool rankings.

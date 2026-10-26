@@ -24,6 +24,14 @@ Alicia 创作的免费 3D 互动花卉作品。打开浏览器，探索四季与
 
 [阅读双语创作手记](https://digitalgarden.si/zh/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [手势、声音与拍摄指南](https://digitalgarden.si/zh/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## 三篇桌面实测 · 2026-10-26
+
+新增 132 次加载、21 个 Houdini 进程和 24 组植被试验。英文全文包含原始结果、复现下载、Codex 辅助披露及未验证范围；目前共 30 篇公开英文笔记。
+
+- [Draco vs Meshopt and KTX2: 132 Loading Trials in Three.js](notes/draco-vs-meshopt-ktx2-benchmark.md) · [官网原文](https://digitalgarden.si/blog/draco-vs-meshopt-ktx2-benchmark/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
+- [RTX 5070 Ti in Houdini 22: Karma, Vellum and a Small Dense Pyro Test](notes/rtx-5070-ti-houdini-benchmark.md) · [官网原文](https://digitalgarden.si/blog/rtx-5070-ti-houdini-benchmark/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
+- [1,600 Trees in Three.js: Mesh LOD and 8/16-View Impostors Measured](notes/threejs-webgpu-vegetation-lod.md) · [官网原文](https://digitalgarden.si/blog/threejs-webgpu-vegetation-lod/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
+
 ## 完整技术文章 · 2026-10-25
 
 以下 27 篇为数字花园已公开英文文章的文档副本，保留原始日期、测量、AI 辅助披露和实验限制。每篇注明官网原文，图片及复现资料继续从官网读取。花园运行代码与原始资产的权利边界保持不变。

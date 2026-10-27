@@ -24,9 +24,15 @@ Alicia 创作的免费 3D 互动花卉作品。打开浏览器，探索四季与
 
 [阅读双语创作手记](https://digitalgarden.si/zh/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [手势、声音与拍摄指南](https://digitalgarden.si/zh/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## 统一风场实测 · 2026-10-27
+
+新增54组草地与树木风场试验，包含原始数据、图表、动画、复现包和Codex辅助披露；共31篇英文笔记。
+
+- [Three.js WebGPU Grass Wind: One Field, 54 Desktop Trials](notes/threejs-webgpu-grass-wind-field.md) · [官网原文](https://digitalgarden.si/blog/threejs-webgpu-grass-wind-field/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
+
 ## 三篇桌面实测 · 2026-10-26
 
-新增 132 次加载、21 个 Houdini 进程和 24 组植被试验。英文全文包含原始结果、复现下载、Codex 辅助披露及未验证范围；目前共 30 篇公开英文笔记。
+新增 132 次加载、21 个 Houdini 进程和 24 组植被试验。英文全文包含原始结果、复现下载、Codex 辅助披露及未验证范围；该次发布后共 30 篇公开英文笔记。
 
 - [Draco vs Meshopt and KTX2: 132 Loading Trials in Three.js](notes/draco-vs-meshopt-ktx2-benchmark.md) · [官网原文](https://digitalgarden.si/blog/draco-vs-meshopt-ktx2-benchmark/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 - [RTX 5070 Ti in Houdini 22: Karma, Vellum and a Small Dense Pyro Test](notes/rtx-5070-ti-houdini-benchmark.md) · [官网原文](https://digitalgarden.si/blog/rtx-5070-ti-houdini-benchmark/?utm_source=github&utm_medium=referral&utm_campaign=showcase)

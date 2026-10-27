@@ -33,9 +33,15 @@ On a phone, a smaller circular patch keeps nearby flowers available for a full h
 
 [Read the making-of notes](https://digitalgarden.si/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [Controls, audio and capture guide](https://digitalgarden.si/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## Shared wind study — 27 October 2026
+
+54 trials of shared grass and tree wind, with raw data, charts, animation, reproduction files and Codex disclosure. The collection now has 31 English field notes.
+
+- [Three.js WebGPU Grass Wind: One Field, 54 Desktop Trials](notes/threejs-webgpu-grass-wind-field.md) · [Original](https://digitalgarden.si/blog/threejs-webgpu-grass-wind-field/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
+
 ## Three desktop studies — 26 October 2026
 
-132 loading trials, 21 Houdini processes and 24 vegetation trials. These three full notes include raw results, reproduction downloads, Codex disclosure and explicit test limits. The collection now contains 30 public English notes.
+132 loading trials, 21 Houdini processes and 24 vegetation trials. These three full notes include raw results, reproduction downloads, Codex disclosure and explicit test limits. At the time of that release, the collection contained 30 public English notes.
 
 - [Draco vs Meshopt and KTX2: 132 Loading Trials in Three.js](notes/draco-vs-meshopt-ktx2-benchmark.md) · [Original](https://digitalgarden.si/blog/draco-vs-meshopt-ktx2-benchmark/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 - [RTX 5070 Ti in Houdini 22: Karma, Vellum and a Small Dense Pyro Test](notes/rtx-5070-ti-houdini-benchmark.md) · [Original](https://digitalgarden.si/blog/rtx-5070-ti-houdini-benchmark/?utm_source=github&utm_medium=referral&utm_campaign=showcase)

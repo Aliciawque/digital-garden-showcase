@@ -33,9 +33,15 @@ On a phone, a smaller circular patch keeps nearby flowers available for a full h
 
 [Read the making-of notes](https://digitalgarden.si/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [Controls, audio and capture guide](https://digitalgarden.si/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## Post-processing study — 28 October 2026
+
+192 desktop trials of Three.js post-processing, with GPU timings, image controls, repeat ranges and a reproduction archive. The collection now has 32 English field notes.
+
+- [Three.js Post-Processing: 192 Desktop Trials Beyond the FPS Counter](notes/threejs-postprocessing-cost-per-pass.md) · [Original article and data](https://digitalgarden.si/blog/threejs-postprocessing-cost-per-pass/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
+
 ## Shared wind study — 27 October 2026
 
-54 trials of shared grass and tree wind, with raw data, charts, animation, reproduction files and Codex disclosure. The collection now has 31 English field notes.
+54 trials of shared grass and tree wind, with raw data, charts, animation, reproduction files and Codex disclosure. At that release, the collection had 31 English field notes.
 
 - [Three.js WebGPU Grass Wind: One Field, 54 Desktop Trials](notes/threejs-webgpu-grass-wind-field.md) · [Original](https://digitalgarden.si/blog/threejs-webgpu-grass-wind-field/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 

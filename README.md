@@ -33,9 +33,15 @@ On a phone, a smaller circular patch keeps nearby flowers available for a full h
 
 [Read the making-of notes](https://digitalgarden.si/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [Controls, audio and capture guide](https://digitalgarden.si/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## Spark Radix desktop study — 31 October 2026
+
+54 trials across three paths and 0.5M–5M owned synthetic SH0 splats, with the 60 Hz ceiling, asynchronous sort delay, graphics API captures, format failures and reproducible data. The collection now has 33 English field notes.
+
+- [Spark Radix vs Spark 2.3.1: What a 5M-Splat Desktop Test Shows](notes/spark-radix-vs-spark-webgpu-benchmark.md) · [Original article and data](https://digitalgarden.si/blog/spark-radix-vs-spark-webgpu-benchmark/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
+
 ## Post-processing study — 28 October 2026
 
-192 desktop trials of Three.js post-processing, with GPU timings, image controls, repeat ranges and a reproduction archive. The collection now has 32 English field notes.
+192 desktop trials of Three.js post-processing, with GPU timings, image controls, repeat ranges and a reproduction archive. At that release, the collection had 32 English field notes.
 
 - [Three.js Post-Processing: 192 Desktop Trials Beyond the FPS Counter](notes/threejs-postprocessing-cost-per-pass.md) · [Original article and data](https://digitalgarden.si/blog/threejs-postprocessing-cost-per-pass/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 

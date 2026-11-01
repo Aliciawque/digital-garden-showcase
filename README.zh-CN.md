@@ -24,9 +24,15 @@ Alicia 创作的免费 3D 互动花卉作品。打开浏览器，探索四季与
 
 [阅读双语创作手记](https://digitalgarden.si/zh/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [手势、声音与拍摄指南](https://digitalgarden.si/zh/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## compileAsync桌面实测 · 2026-11-01
+
+40次fresh-profile启动、WebGPU与forceWebGL2、四项最终控制和原始数据。区分预编译、GPU完成与主线程长任务；独立48树夹具，未升级生产花园。现共34篇英文实测/工作流笔记。
+
+- [Three.js r187 compileAsync: 40 Desktop Starts, Measured](notes/threejs-compileasync-webgpu-first-frame-stutter.md) · [官网原文与数据](https://digitalgarden.si/blog/threejs-compileasync-webgpu-first-frame-stutter/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
+
 ## Spark Radix桌面实测 · 2026-10-31
 
-54组、三条渲染路径、0.5M–5M自有合成SH0花坛；保留60Hz上限、排序延迟、图形API、格式失败与复现数据。现共33篇英文实测/工作流笔记。
+54组、三条渲染路径、0.5M–5M自有合成SH0花坛；保留60Hz上限、排序延迟、图形API、格式失败与复现数据。该次发布后共33篇英文实测/工作流笔记。
 
 - [Spark Radix vs Spark 2.3.1: What a 5M-Splat Desktop Test Shows](notes/spark-radix-vs-spark-webgpu-benchmark.md) · [官网原文与数据](https://digitalgarden.si/blog/spark-radix-vs-spark-webgpu-benchmark/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 

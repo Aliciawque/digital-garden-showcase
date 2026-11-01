@@ -33,9 +33,15 @@ On a phone, a smaller circular patch keeps nearby flowers available for a full h
 
 [Read the making-of notes](https://digitalgarden.si/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [Controls, audio and capture guide](https://digitalgarden.si/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## compileAsync desktop study — 1 November 2026
+
+40 fresh-profile starts on WebGPU and the forced WebGL2 fallback, four final coverage/target-scene controls and full data. Precompile duration, GPU completion and thresholded long tasks remain separate. This is an independent 48-tree fixture, not a production migration. The collection now has 34 English field notes.
+
+- [Three.js r187 compileAsync: 40 Desktop Starts, Measured](notes/threejs-compileasync-webgpu-first-frame-stutter.md) · [Original article and data](https://digitalgarden.si/blog/threejs-compileasync-webgpu-first-frame-stutter/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
+
 ## Spark Radix desktop study — 31 October 2026
 
-54 trials across three paths and 0.5M–5M owned synthetic SH0 splats, with the 60 Hz ceiling, asynchronous sort delay, graphics API captures, format failures and reproducible data. The collection now has 33 English field notes.
+54 trials across three paths and 0.5M–5M owned synthetic SH0 splats, with the 60 Hz ceiling, asynchronous sort delay, graphics API captures, format failures and reproducible data. At that release, the collection had 33 English field notes.
 
 - [Spark Radix vs Spark 2.3.1: What a 5M-Splat Desktop Test Shows](notes/spark-radix-vs-spark-webgpu-benchmark.md) · [Original article and data](https://digitalgarden.si/blog/spark-radix-vs-spark-webgpu-benchmark/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 

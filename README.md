@@ -33,9 +33,15 @@ On a phone, a smaller circular patch keeps nearby flowers available for a full h
 
 [Read the making-of notes](https://digitalgarden.si/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [Controls, audio and capture guide](https://digitalgarden.si/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## TRELLIS.2 generation, memory and GLB study — 2 November 2026
+
+24 generations reached the requested grid;23 native files were written. The device-not-ready failure, single late Windows shared-memory snapshot,21 derived normal corrections,24 browser starts and 255-entry archive are retained. Completion does not establish a pure 16GB-local-VRAM fit. The collection now has 38 English field notes.
+
+- [TRELLIS.2 on a 16GB RTX 5070 Ti: 24 Runs, GLB Export and Shared Memory](notes/trellis-2-16gb-vram-rtx-5070-ti.md) · [Original article and data](https://digitalgarden.si/blog/trellis-2-16gb-vram-rtx-5070-ti/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
+
 ## Local VEX and native GSplats studies — 2 November 2026
 
-60 frozen VEX trials and 156 unedited outputs; a native Houdini 22 Karma plant fit, PLY/SPZ transfer and 12 browser starts. Failed setups, color differences, bounded claims and 101/213-file reproduction archives are retained. The collection now has 37 English field notes.
+60 frozen VEX trials and 156 unedited outputs; a native Houdini 22 Karma plant fit, PLY/SPZ transfer and 12 browser starts. Failed setups, color differences, bounded claims and 101/213-file reproduction archives are retained. At that release, the collection had 37 English field notes.
 
 - [Ollama in Houdini: 60 VEX Tests on a 16GB RTX 5070 Ti](notes/local-llm-houdini-ollama-vex.md) · [Original article and data](https://digitalgarden.si/blog/local-llm-houdini-ollama-vex/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 - [Houdini 22 Gaussian Splats to Three.js: A Native Export Test](notes/houdini-22-gaussian-splats-threejs.md) · [Original article and data](https://digitalgarden.si/blog/houdini-22-gaussian-splats-threejs/?utm_source=github&utm_medium=referral&utm_campaign=showcase)

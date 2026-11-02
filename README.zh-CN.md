@@ -24,9 +24,15 @@ Alicia 创作的免费 3D 互动花卉作品。打开浏览器，探索四季与
 
 [阅读双语创作手记](https://digitalgarden.si/zh/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [手势、声音与拍摄指南](https://digitalgarden.si/zh/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## TRELLIS.2 生成、显存与 GLB 实测 · 2026-11-02
+
+24次生成均达到指定分辨率，23份原生文件写出；保留device-not-ready失败、Windows共享显存单次快照、21个零法线派生修正、24次浏览器启动与255项复现包。不能据此声称纯16GB本地显存全流程适配。现共38篇英文实测/工作流笔记。
+
+- [TRELLIS.2 on a 16GB RTX 5070 Ti: 24 Runs, GLB Export and Shared Memory](notes/trellis-2-16gb-vram-rtx-5070-ti.md) · [官网原文与数据](https://digitalgarden.si/blog/trellis-2-16gb-vram-rtx-5070-ti/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
+
 ## 本地 VEX 与原生 GSplats 实测 · 2026-11-02
 
-60 次冻结 VEX 测试、156 份未修改输出，以及 Houdini 22 原生 Karma 植物训练、PLY/SPZ 转换和 12 次浏览器启动。保留失败记录、色彩差异、适用范围与 101/213 文件复现包。现共37篇英文实测/工作流笔记。
+60 次冻结 VEX 测试、156 份未修改输出，以及 Houdini 22 原生 Karma 植物训练、PLY/SPZ 转换和 12 次浏览器启动。保留失败记录、色彩差异、适用范围与 101/213 文件复现包。该次发布后共37篇英文实测/工作流笔记。
 
 - [Ollama in Houdini: 60 VEX Tests on a 16GB RTX 5070 Ti](notes/local-llm-houdini-ollama-vex.md) · [官网原文与数据](https://digitalgarden.si/blog/local-llm-houdini-ollama-vex/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 - [Houdini 22 Gaussian Splats to Three.js: A Native Export Test](notes/houdini-22-gaussian-splats-threejs.md) · [官网原文与数据](https://digitalgarden.si/blog/houdini-22-gaussian-splats-threejs/?utm_source=github&utm_medium=referral&utm_campaign=showcase)

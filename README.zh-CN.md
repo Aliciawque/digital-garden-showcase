@@ -24,9 +24,15 @@ Alicia 创作的免费 3D 互动花卉作品。打开浏览器，探索四季与
 
 [阅读双语创作手记](https://digitalgarden.si/zh/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [手势、声音与拍摄指南](https://digitalgarden.si/zh/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## Copernicus烘焙与GLB实测 · 2026-11-02
+
+9次原生烘焙、18次浏览器启动、PNG/KTX2容量和原生导出问题。保留未修正GLB、独立修正副本、失败对照和145文件复现包；独立不透明网格叶片，未迁移生产花园。现共35篇英文实测/工作流笔记。
+
+- [Houdini Copernicus to GLB: Nine Bakes and 18 Browser Starts](notes/houdini-copernicus-bake-glb-threejs.md) · [官网原文与数据](https://digitalgarden.si/blog/houdini-copernicus-bake-glb-threejs/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
+
 ## compileAsync桌面实测 · 2026-11-01
 
-40次fresh-profile启动、WebGPU与forceWebGL2、四项最终控制和原始数据。区分预编译、GPU完成与主线程长任务；独立48树夹具，未升级生产花园。现共34篇英文实测/工作流笔记。
+40次fresh-profile启动、WebGPU与forceWebGL2、四项最终控制和原始数据。区分预编译、GPU完成与主线程长任务；独立48树夹具，未升级生产花园。该次发布后共34篇英文实测/工作流笔记。
 
 - [Three.js r187 compileAsync: 40 Desktop Starts, Measured](notes/threejs-compileasync-webgpu-first-frame-stutter.md) · [官网原文与数据](https://digitalgarden.si/blog/threejs-compileasync-webgpu-first-frame-stutter/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 

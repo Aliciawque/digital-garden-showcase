@@ -33,9 +33,15 @@ On a phone, a smaller circular patch keeps nearby flowers available for a full h
 
 [Read the making-of notes](https://digitalgarden.si/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [Controls, audio and capture guide](https://digitalgarden.si/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## Copernicus baking and GLB study — 2 November 2026
+
+Nine native bakes, 18 browser starts, PNG/KTX2 payloads and native export problems. The untouched GLB, separate corrected copy, failed controls and 145-file reproduction archive are retained. This is an owned opaque mesh-leaf fixture, not a production migration. The collection now has 35 English field notes.
+
+- [Houdini Copernicus to GLB: Nine Bakes and 18 Browser Starts](notes/houdini-copernicus-bake-glb-threejs.md) · [Original article and data](https://digitalgarden.si/blog/houdini-copernicus-bake-glb-threejs/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
+
 ## compileAsync desktop study — 1 November 2026
 
-40 fresh-profile starts on WebGPU and the forced WebGL2 fallback, four final coverage/target-scene controls and full data. Precompile duration, GPU completion and thresholded long tasks remain separate. This is an independent 48-tree fixture, not a production migration. The collection now has 34 English field notes.
+40 fresh-profile starts on WebGPU and the forced WebGL2 fallback, four final coverage/target-scene controls and full data. Precompile duration, GPU completion and thresholded long tasks remain separate. This is an independent 48-tree fixture, not a production migration. At that release, the collection had 34 English field notes.
 
 - [Three.js r187 compileAsync: 40 Desktop Starts, Measured](notes/threejs-compileasync-webgpu-first-frame-stutter.md) · [Original article and data](https://digitalgarden.si/blog/threejs-compileasync-webgpu-first-frame-stutter/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 

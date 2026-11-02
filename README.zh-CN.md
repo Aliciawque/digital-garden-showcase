@@ -24,9 +24,16 @@ Alicia 创作的免费 3D 互动花卉作品。打开浏览器，探索四季与
 
 [阅读双语创作手记](https://digitalgarden.si/zh/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [手势、声音与拍摄指南](https://digitalgarden.si/zh/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## 本地 VEX 与原生 GSplats 实测 · 2026-11-02
+
+60 次冻结 VEX 测试、156 份未修改输出，以及 Houdini 22 原生 Karma 植物训练、PLY/SPZ 转换和 12 次浏览器启动。保留失败记录、色彩差异、适用范围与 101/213 文件复现包。现共37篇英文实测/工作流笔记。
+
+- [Ollama in Houdini: 60 VEX Tests on a 16GB RTX 5070 Ti](notes/local-llm-houdini-ollama-vex.md) · [官网原文与数据](https://digitalgarden.si/blog/local-llm-houdini-ollama-vex/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
+- [Houdini 22 Gaussian Splats to Three.js: A Native Export Test](notes/houdini-22-gaussian-splats-threejs.md) · [官网原文与数据](https://digitalgarden.si/blog/houdini-22-gaussian-splats-threejs/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
+
 ## Copernicus烘焙与GLB实测 · 2026-11-02
 
-9次原生烘焙、18次浏览器启动、PNG/KTX2容量和原生导出问题。保留未修正GLB、独立修正副本、失败对照和145文件复现包；独立不透明网格叶片，未迁移生产花园。现共35篇英文实测/工作流笔记。
+9次原生烘焙、18次浏览器启动、PNG/KTX2容量和原生导出问题。保留未修正GLB、独立修正副本、失败对照和145文件复现包；独立不透明网格叶片，未迁移生产花园。该次发布后共35篇英文实测/工作流笔记。
 
 - [Houdini Copernicus to GLB: Nine Bakes and 18 Browser Starts](notes/houdini-copernicus-bake-glb-threejs.md) · [官网原文与数据](https://digitalgarden.si/blog/houdini-copernicus-bake-glb-threejs/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 

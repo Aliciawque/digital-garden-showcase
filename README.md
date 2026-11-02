@@ -33,9 +33,16 @@ On a phone, a smaller circular patch keeps nearby flowers available for a full h
 
 [Read the making-of notes](https://digitalgarden.si/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [Controls, audio and capture guide](https://digitalgarden.si/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## Local VEX and native GSplats studies — 2 November 2026
+
+60 frozen VEX trials and 156 unedited outputs; a native Houdini 22 Karma plant fit, PLY/SPZ transfer and 12 browser starts. Failed setups, color differences, bounded claims and 101/213-file reproduction archives are retained. The collection now has 37 English field notes.
+
+- [Ollama in Houdini: 60 VEX Tests on a 16GB RTX 5070 Ti](notes/local-llm-houdini-ollama-vex.md) · [Original article and data](https://digitalgarden.si/blog/local-llm-houdini-ollama-vex/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
+- [Houdini 22 Gaussian Splats to Three.js: A Native Export Test](notes/houdini-22-gaussian-splats-threejs.md) · [Original article and data](https://digitalgarden.si/blog/houdini-22-gaussian-splats-threejs/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
+
 ## Copernicus baking and GLB study — 2 November 2026
 
-Nine native bakes, 18 browser starts, PNG/KTX2 payloads and native export problems. The untouched GLB, separate corrected copy, failed controls and 145-file reproduction archive are retained. This is an owned opaque mesh-leaf fixture, not a production migration. The collection now has 35 English field notes.
+Nine native bakes, 18 browser starts, PNG/KTX2 payloads and native export problems. The untouched GLB, separate corrected copy, failed controls and 145-file reproduction archive are retained. This is an owned opaque mesh-leaf fixture, not a production migration. At that release, the collection had 35 English field notes.
 
 - [Houdini Copernicus to GLB: Nine Bakes and 18 Browser Starts](notes/houdini-copernicus-bake-glb-threejs.md) · [Original article and data](https://digitalgarden.si/blog/houdini-copernicus-bake-glb-threejs/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 

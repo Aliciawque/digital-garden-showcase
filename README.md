@@ -33,9 +33,15 @@ On a phone, a smaller circular patch keeps nearby flowers available for a full h
 
 [Read the making-of notes](https://digitalgarden.si/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [Controls, audio and capture guide](https://digitalgarden.si/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## Procedural Three.js assets versus GLB — 3 November 2026
+
+Three Polyfork assets and 148 local navigations separate payload size, first GPU completion, instanced submissions, CPU copies and rebuilds. Seven tables, four figures and a 183-file reproduction package retain the third-party license and desktop-only limits. The production garden was not migrated. The collection now has 39 English field notes.
+
+- [Procedural Three.js Assets vs GLB: 148 Local Navigations, Measured](notes/procedural-threejs-assets-vs-glb.md) · [Original article and data](https://digitalgarden.si/blog/procedural-threejs-assets-vs-glb/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
+
 ## TRELLIS.2 generation, memory and GLB study — 2 November 2026
 
-24 generations reached the requested grid;23 native files were written. The device-not-ready failure, single late Windows shared-memory snapshot,21 derived normal corrections,24 browser starts and 255-entry archive are retained. Completion does not establish a pure 16GB-local-VRAM fit. The collection now has 38 English field notes.
+24 generations reached the requested grid;23 native files were written. The device-not-ready failure, single late Windows shared-memory snapshot,21 derived normal corrections,24 browser starts and 255-entry archive are retained. Completion does not establish a pure 16GB-local-VRAM fit. At that release, the collection had 38 English field notes.
 
 - [TRELLIS.2 on a 16GB RTX 5070 Ti: 24 Runs, GLB Export and Shared Memory](notes/trellis-2-16gb-vram-rtx-5070-ti.md) · [Original article and data](https://digitalgarden.si/blog/trellis-2-16gb-vram-rtx-5070-ti/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 

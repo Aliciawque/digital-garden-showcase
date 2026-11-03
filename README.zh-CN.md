@@ -24,9 +24,15 @@ Alicia 创作的免费 3D 互动花卉作品。打开浏览器，探索四季与
 
 [阅读双语创作手记](https://digitalgarden.si/zh/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [手势、声音与拍摄指南](https://digitalgarden.si/zh/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## 程序化 Three.js 资产与 GLB 实测 · 2026-11-03
+
+三项 Polyfork 资产、148 次本机导航，区分资源字节、首次 GPU 完成、实例化提交、CPU 复制与参数重建；七表、四图与 183 文件复现包。保留第三方许可与无真机手机测试的边界，未迁移生产花园。现共 39 篇英文实测/工作流笔记。
+
+- [Procedural Three.js Assets vs GLB: 148 Local Navigations, Measured](notes/procedural-threejs-assets-vs-glb.md) · [官网原文与数据](https://digitalgarden.si/blog/procedural-threejs-assets-vs-glb/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
+
 ## TRELLIS.2 生成、显存与 GLB 实测 · 2026-11-02
 
-24次生成均达到指定分辨率，23份原生文件写出；保留device-not-ready失败、Windows共享显存单次快照、21个零法线派生修正、24次浏览器启动与255项复现包。不能据此声称纯16GB本地显存全流程适配。现共38篇英文实测/工作流笔记。
+24次生成均达到指定分辨率，23份原生文件写出；保留device-not-ready失败、Windows共享显存单次快照、21个零法线派生修正、24次浏览器启动与255项复现包。不能据此声称纯16GB本地显存全流程适配。该次发布后共38篇英文实测/工作流笔记。
 
 - [TRELLIS.2 on a 16GB RTX 5070 Ti: 24 Runs, GLB Export and Shared Memory](notes/trellis-2-16gb-vram-rtx-5070-ti.md) · [官网原文与数据](https://digitalgarden.si/blog/trellis-2-16gb-vram-rtx-5070-ti/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 

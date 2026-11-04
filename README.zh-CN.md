@@ -24,6 +24,12 @@ Alicia 创作的免费 3D 互动花卉作品。打开浏览器，探索四季与
 
 [阅读双语创作手记](https://digitalgarden.si/zh/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [手势、声音与拍摄指南](https://digitalgarden.si/zh/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## 高斯渲染、合成训练与河道遮罩实测 · 2026-11-04
+
+- [Three.js Gaussian Splats: Gaussian-Splat-Lite, Spark and Radix on One Desktop](notes/threejs-gaussian-splat-renderer-comparison.md) · [官网原文与数据](https://digitalgarden.si/blog/threejs-gaussian-splat-renderer-comparison/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
+- [Procedural Gaussian Splatting in Houdini: Six Fits Without Photos](notes/houdini-procedural-gaussian-splatting.md) · [官网原文与数据](https://digitalgarden.si/blog/houdini-procedural-gaussian-splatting/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
+- [A Mountain River in Unreal PCG: Testing a Houdini Erosion Mask](notes/houdini-erosion-masks-unreal-pcg.md) · [官网原文与数据](https://digitalgarden.si/blog/houdini-erosion-masks-unreal-pcg/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
+
 ## 程序化 Three.js 资产与 GLB 实测 · 2026-11-03
 
 三项 Polyfork 资产、148 次本机导航，区分资源字节、首次 GPU 完成、实例化提交、CPU 复制与参数重建；七表、四图与 183 文件复现包。保留第三方许可与无真机手机测试的边界，未迁移生产花园。现共 39 篇英文实测/工作流笔记。

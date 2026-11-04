@@ -33,6 +33,12 @@ On a phone, a smaller circular patch keeps nearby flowers available for a full h
 
 [Read the making-of notes](https://digitalgarden.si/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [Controls, audio and capture guide](https://digitalgarden.si/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## Splat rendering, synthetic training and river masks — 4 November 2026
+
+- [Three.js Gaussian Splats: Gaussian-Splat-Lite, Spark and Radix on One Desktop](notes/threejs-gaussian-splat-renderer-comparison.md) · [Original article and data](https://digitalgarden.si/blog/threejs-gaussian-splat-renderer-comparison/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
+- [Procedural Gaussian Splatting in Houdini: Six Fits Without Photos](notes/houdini-procedural-gaussian-splatting.md) · [Original article and data](https://digitalgarden.si/blog/houdini-procedural-gaussian-splatting/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
+- [A Mountain River in Unreal PCG: Testing a Houdini Erosion Mask](notes/houdini-erosion-masks-unreal-pcg.md) · [Original article and data](https://digitalgarden.si/blog/houdini-erosion-masks-unreal-pcg/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
+
 ## Procedural Three.js assets versus GLB — 3 November 2026
 
 Three Polyfork assets and 148 local navigations separate payload size, first GPU completion, instanced submissions, CPU copies and rebuilds. Seven tables, four figures and a 183-file reproduction package retain the third-party license and desktop-only limits. The production garden was not migrated. The collection now has 39 English field notes.

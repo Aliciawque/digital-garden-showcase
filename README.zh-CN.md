@@ -24,6 +24,13 @@ Alicia 创作的免费 3D 互动花卉作品。打开浏览器，探索四季与
 
 [阅读双语创作手记](https://digitalgarden.si/zh/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [手势、声音与拍摄指南](https://digitalgarden.si/zh/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## 高斯格式、桌面查看器与 USDZ 实测 · 2026-11-05
+
+- [SPZ vs SOG vs PLY: Five Exports of One Gaussian Splat Garden](notes/spz-vs-sog-vs-ply-gaussian-splat-formats.md) · [官网原文与数据](https://digitalgarden.si/blog/spz-vs-sog-vs-ply-gaussian-splat-formats/)
+- [Houdini GLB to USDZ with Blender, Three.js and Three-Live](notes/threejs-glb-to-usdz-desktop.md) · [官网原文与数据](https://digitalgarden.si/blog/threejs-glb-to-usdz-desktop/)
+- [Gaussian Splat Viewers on Desktop: PLY, SOG and SPZ](notes/gaussian-splat-viewers-desktop.md) · [官网原文与数据](https://digitalgarden.si/blog/gaussian-splat-viewers-desktop/)
+- [Brush vs Spirula Studio on Windows with the Same Posed Garden](notes/brush-vs-spirula-gaussian-splatting-windows.md) · [官网原文与数据](https://digitalgarden.si/blog/brush-vs-spirula-gaussian-splatting-windows/)
+
 ## 高斯渲染、合成训练与河道遮罩实测 · 2026-11-04
 
 - [Three.js Gaussian Splats: Gaussian-Splat-Lite, Spark and Radix on One Desktop](notes/threejs-gaussian-splat-renderer-comparison.md) · [官网原文与数据](https://digitalgarden.si/blog/threejs-gaussian-splat-renderer-comparison/?utm_source=github&utm_medium=referral&utm_campaign=showcase)

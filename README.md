@@ -33,6 +33,13 @@ On a phone, a smaller circular patch keeps nearby flowers available for a full h
 
 [Read the making-of notes](https://digitalgarden.si/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [Controls, audio and capture guide](https://digitalgarden.si/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## Splat formats, desktop viewers and USDZ — 5 November 2026
+
+- [SPZ vs SOG vs PLY: Five Exports of One Gaussian Splat Garden](notes/spz-vs-sog-vs-ply-gaussian-splat-formats.md) · [Original article and data](https://digitalgarden.si/blog/spz-vs-sog-vs-ply-gaussian-splat-formats/)
+- [Houdini GLB to USDZ with Blender, Three.js and Three-Live](notes/threejs-glb-to-usdz-desktop.md) · [Original article and data](https://digitalgarden.si/blog/threejs-glb-to-usdz-desktop/)
+- [Gaussian Splat Viewers on Desktop: PLY, SOG and SPZ](notes/gaussian-splat-viewers-desktop.md) · [Original article and data](https://digitalgarden.si/blog/gaussian-splat-viewers-desktop/)
+- [Brush vs Spirula Studio on Windows with the Same Posed Garden](notes/brush-vs-spirula-gaussian-splatting-windows.md) · [Original article and data](https://digitalgarden.si/blog/brush-vs-spirula-gaussian-splatting-windows/)
+
 ## Splat rendering, synthetic training and river masks — 4 November 2026
 
 - [Three.js Gaussian Splats: Gaussian-Splat-Lite, Spark and Radix on One Desktop](notes/threejs-gaussian-splat-renderer-comparison.md) · [Original article and data](https://digitalgarden.si/blog/threejs-gaussian-splat-renderer-comparison/?utm_source=github&utm_medium=referral&utm_campaign=showcase)

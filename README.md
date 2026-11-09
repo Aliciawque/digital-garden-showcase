@@ -33,6 +33,10 @@ On a phone, a smaller circular patch keeps nearby flowers available for a full h
 
 [Read the making-of notes](https://digitalgarden.si/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [Controls, audio and capture guide](https://digitalgarden.si/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## Three.js exploded-view experiment — 9 November 2026
+
+- [Three.js Exploded View: Explode a Real Multi-Part GLB (and What It Costs in Draw Calls)](notes/threejs-exploded-view.md) · [Original article and data](https://digitalgarden.si/blog/threejs-exploded-view/)
+
 ## Splat formats, desktop viewers and USDZ — 5 November 2026
 
 - [SPZ vs SOG vs PLY: Five Exports of One Gaussian Splat Garden](notes/spz-vs-sog-vs-ply-gaussian-splat-formats.md) · [Original article and data](https://digitalgarden.si/blog/spz-vs-sog-vs-ply-gaussian-splat-formats/)

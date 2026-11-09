@@ -24,6 +24,10 @@ Alicia 创作的免费 3D 互动花卉作品。打开浏览器，探索四季与
 
 [阅读双语创作手记](https://digitalgarden.si/zh/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [手势、声音与拍摄指南](https://digitalgarden.si/zh/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## Three.js 爆炸图实测 · 2026-11-09
+
+- [Three.js Exploded View: Explode a Real Multi-Part GLB (and What It Costs in Draw Calls)](notes/threejs-exploded-view.md) · [官网原文与数据](https://digitalgarden.si/blog/threejs-exploded-view/)
+
 ## 高斯格式、桌面查看器与 USDZ 实测 · 2026-11-05
 
 - [SPZ vs SOG vs PLY: Five Exports of One Gaussian Splat Garden](notes/spz-vs-sog-vs-ply-gaussian-splat-formats.md) · [官网原文与数据](https://digitalgarden.si/blog/spz-vs-sog-vs-ply-gaussian-splat-formats/)

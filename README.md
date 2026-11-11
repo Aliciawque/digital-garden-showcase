@@ -33,6 +33,10 @@ On a phone, a smaller circular patch keeps nearby flowers available for a full h
 
 [Read the making-of notes](https://digitalgarden.si/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [Controls, audio and capture guide](https://digitalgarden.si/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## Three.js and Unreal desktop delivery study — 11 November 2026
+
+- [Three.js vs Unreal Engine for Web 3D: Which Should You Ship in the Browser?](notes/threejs-vs-unreal-engine-web.md) · [Original article and data](https://digitalgarden.si/blog/threejs-vs-unreal-engine-web/)
+
 ## Three.js exploded-view experiment — 9 November 2026
 
 - [Three.js Exploded View: Explode a Real Multi-Part GLB (and What It Costs in Draw Calls)](notes/threejs-exploded-view.md) · [Original article and data](https://digitalgarden.si/blog/threejs-exploded-view/)

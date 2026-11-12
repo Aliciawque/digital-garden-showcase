@@ -33,6 +33,10 @@ On a phone, a smaller circular patch keeps nearby flowers available for a full h
 
 [Read the making-of notes](https://digitalgarden.si/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [Controls, audio and capture guide](https://digitalgarden.si/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## Blender 5.3 splat import and export study — 12 November 2026
+
+- [Blender 5.3 Gaussian Splats: Import, Crop and Export Tested](notes/blender-5-3-gaussian-splats-threejs.md) · [Original article and data](https://digitalgarden.si/blog/blender-5-3-gaussian-splats-threejs/)
+
 ## Three.js and Unreal desktop delivery study — 11 November 2026
 
 - [Three.js vs Unreal Engine for Web 3D: Which Should You Ship in the Browser?](notes/threejs-vs-unreal-engine-web.md) · [Original article and data](https://digitalgarden.si/blog/threejs-vs-unreal-engine-web/)

@@ -24,6 +24,10 @@ Alicia 创作的免费 3D 互动花卉作品。打开浏览器，探索四季与
 
 [阅读双语创作手记](https://digitalgarden.si/zh/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [手势、声音与拍摄指南](https://digitalgarden.si/zh/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## Blender 5.3 泼溅导入与导出实测 · 2026-11-12
+
+- [Blender 5.3 Gaussian Splats: Import, Crop and Export Tested](notes/blender-5-3-gaussian-splats-threejs.md) · [官网原文与数据](https://digitalgarden.si/blog/blender-5-3-gaussian-splats-threejs/)
+
 ## Three.js 与 Unreal 桌面选型实测 · 2026-11-11
 
 - [Three.js vs Unreal Engine for Web 3D: Which Should You Ship in the Browser?](notes/threejs-vs-unreal-engine-web.md) · [官网原文与数据](https://digitalgarden.si/blog/threejs-vs-unreal-engine-web/)

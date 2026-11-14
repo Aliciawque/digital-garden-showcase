@@ -33,6 +33,10 @@ On a phone, a smaller circular patch keeps nearby flowers available for a full h
 
 [Read the making-of notes](https://digitalgarden.si/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [Controls, audio and capture guide](https://digitalgarden.si/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## FLIP bubble experiment — 13 November 2026
+
+- [Short companion and limitations](notes/houdini-flip-deforming-bubbles.md) · [Full original method, VEX and data](https://digitalgarden.si/blog/houdini-flip-deforming-bubbles/)
+
 ## Idol image-to-splat desktop study — 13 November 2026
 
 - [Image to Gaussian Splat on a 16GB GPU: Idol and Three.js Tested](notes/image-to-gaussian-splat-threejs.md) · [Original article and data](https://digitalgarden.si/blog/image-to-gaussian-splat-threejs/)
@@ -193,3 +197,4 @@ Commercial website licensing and custom garden commissions are available by inqu
 This repository presents the artwork and links to the live experience. It does not distribute the garden runtime, plant source files or an open-source license for those materials. See [rights and sources](RIGHTS.md).
 
 **Official website:** [digitalgarden.si](https://digitalgarden.si/?utm_source=github&utm_medium=referral&utm_campaign=showcase) · **Artist:** [Alicia](https://digitalgarden.si/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
+

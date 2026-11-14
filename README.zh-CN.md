@@ -24,6 +24,10 @@ Alicia 创作的免费 3D 互动花卉作品。打开浏览器，探索四季与
 
 [阅读双语创作手记](https://digitalgarden.si/zh/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [手势、声音与拍摄指南](https://digitalgarden.si/zh/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## FLIP 变形气泡实测摘要 · 2026-11-13
+
+- [实验摘要与限制](notes/houdini-flip-deforming-bubbles.md) · [官网完整原文、VEX 与数据](https://digitalgarden.si/blog/houdini-flip-deforming-bubbles/)
+
 ## Idol 单图高斯泼溅桌面实测 · 2026-11-13
 
 - [Image to Gaussian Splat on a 16GB GPU: Idol and Three.js Tested](notes/image-to-gaussian-splat-threejs.md) · [官网原文与数据](https://digitalgarden.si/blog/image-to-gaussian-splat-threejs/)
@@ -178,3 +182,4 @@ Alicia 创作的免费 3D 互动花卉作品。打开浏览器，探索四季与
 [网站商业授权](https://digitalgarden.si/zh/licensing/?utm_source=github&utm_medium=referral&utm_campaign=showcase)和[品牌花园定制](https://digitalgarden.si/zh/custom-gardens/?utm_source=github&utm_medium=referral&utm_campaign=showcase)采用询价与书面约定。
 
 此仓库用于展示作品及官网入口，不分发花园运行源码、植物原始工程，也不为这些素材提供开源许可。[权利与来源说明](RIGHTS.md)
+

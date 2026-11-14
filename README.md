@@ -33,6 +33,10 @@ On a phone, a smaller circular patch keeps nearby flowers available for a full h
 
 [Read the making-of notes](https://digitalgarden.si/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [Controls, audio and capture guide](https://digitalgarden.si/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## Idol image-to-splat desktop study — 13 November 2026
+
+- [Image to Gaussian Splat on a 16GB GPU: Idol and Three.js Tested](notes/image-to-gaussian-splat-threejs.md) · [Original article and data](https://digitalgarden.si/blog/image-to-gaussian-splat-threejs/)
+
 ## Blender 5.3 splat import and export study — 12 November 2026
 
 - [Blender 5.3 Gaussian Splats: Import, Crop and Export Tested](notes/blender-5-3-gaussian-splats-threejs.md) · [Original article and data](https://digitalgarden.si/blog/blender-5-3-gaussian-splats-threejs/)

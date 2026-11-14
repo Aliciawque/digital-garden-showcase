@@ -177,7 +177,7 @@ This is a local loader integration experiment. The model has not been placed in 
 
 The [reproduction bundle](https://digitalgarden.si/marketing/research/idol-20261113/idol-threejs-study-20261113.zip) contains the two owned inputs, two sample PLY exports (262,144 and 65,536 points), actual JSON/CSV records, viewer code, measurement scripts, figures and license notices. It excludes model weights, private tokens, compile caches and user scenes. The complete private working evidence also retains all fourteen outputs and the failed setup attempts.
 
-For the wider browser-rendering context, see the [Three.js garden rendering guide](/blog/threejs-3d-garden-rendering/).
+For the wider browser-rendering context, see the [Three.js garden rendering guide](https://digitalgarden.si/blog/threejs-3d-garden-rendering/).
 
 **Alicia — 3D technical artist, TA and independent developer.** Original study text, figures and owned fixtures: CC BY 4.0. Original instrumentation: MIT; upstream components retain their licenses. Those notices do not relicense model weights.
 

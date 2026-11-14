@@ -182,4 +182,3 @@ Alicia 创作的免费 3D 互动花卉作品。打开浏览器，探索四季与
 [网站商业授权](https://digitalgarden.si/zh/licensing/?utm_source=github&utm_medium=referral&utm_campaign=showcase)和[品牌花园定制](https://digitalgarden.si/zh/custom-gardens/?utm_source=github&utm_medium=referral&utm_campaign=showcase)采用询价与书面约定。
 
 此仓库用于展示作品及官网入口，不分发花园运行源码、植物原始工程，也不为这些素材提供开源许可。[权利与来源说明](RIGHTS.md)
-

@@ -197,4 +197,3 @@ Commercial website licensing and custom garden commissions are available by inqu
 This repository presents the artwork and links to the live experience. It does not distribute the garden runtime, plant source files or an open-source license for those materials. See [rights and sources](RIGHTS.md).
 
 **Official website:** [digitalgarden.si](https://digitalgarden.si/?utm_source=github&utm_medium=referral&utm_campaign=showcase) · **Artist:** [Alicia](https://digitalgarden.si/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
-

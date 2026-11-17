@@ -24,6 +24,10 @@ Alicia 创作的免费 3D 互动花卉作品。打开浏览器，探索四季与
 
 [阅读双语创作手记](https://digitalgarden.si/zh/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [手势、声音与拍摄指南](https://digitalgarden.si/zh/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## Meshlets 与逐簇 LOD 桌面实测 · 2026-11-16
+
+- [简短摘要](notes/threejs-meshlets-cluster-lod.md) · [英文完整方法与原始数据](https://digitalgarden.si/blog/threejs-meshlets-cluster-lod/) · [中文实测摘要](https://digitalgarden.si/zh/blog/threejs-meshlets-cluster-lod/)
+
 ## FLIP 变形气泡实测摘要 · 2026-11-13
 
 - [实验摘要与限制](notes/houdini-flip-deforming-bubbles.md) · [官网完整原文、VEX 与数据](https://digitalgarden.si/blog/houdini-flip-deforming-bubbles/)

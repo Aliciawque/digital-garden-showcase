@@ -33,6 +33,11 @@ On a phone, a smaller circular patch keeps nearby flowers available for a full h
 
 [Read the making-of notes](https://digitalgarden.si/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [Controls, audio and capture guide](https://digitalgarden.si/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## Houdini 22 workbook and single-image reconstruction
+
+- [Machine learning workbook](notes/houdini-22-machine-learning-workbook.md) · [Digital Garden](https://digitalgarden.si/blog/houdini-22-machine-learning-workbook/)
+- [MoGe-2 and SHARP camera test](notes/houdini-moge2-sharp-single-image-gsplats.md) · [Digital Garden](https://digitalgarden.si/blog/houdini-moge2-sharp-single-image-gsplats/)
+
 ## Lavender porting study — 17 November 2026
 
 [Renderer and attribute checks](notes/pixijs-3d-vs-threejs-webgpu.md) · [Full study and runnable kit](https://digitalgarden.si/blog/pixijs-3d-vs-threejs-webgpu/)

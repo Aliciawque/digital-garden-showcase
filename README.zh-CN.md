@@ -24,6 +24,11 @@ Alicia 创作的免费 3D 互动花卉作品。打开浏览器，探索四季与
 
 [阅读双语创作手记](https://digitalgarden.si/zh/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [手势、声音与拍摄指南](https://digitalgarden.si/zh/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## Houdini 22 机器学习与单图高斯实测
+
+- [机器学习 13 课](notes/houdini-22-machine-learning-workbook.md) · [Digital Garden](https://digitalgarden.si/zh/blog/houdini-22-machine-learning-workbook/)
+- [MoGe-2 与 SHARP 竖幅相机对照](notes/houdini-moge2-sharp-single-image-gsplats.md) · [Digital Garden](https://digitalgarden.si/zh/blog/houdini-moge2-sharp-single-image-gsplats/)
+
 ## 薰衣草移植实测 · 2026-11-17
 
 [实测摘要](notes/pixijs-3d-vs-threejs-webgpu.md) · [官网中文结果](https://digitalgarden.si/zh/blog/pixijs-3d-vs-threejs-webgpu/)

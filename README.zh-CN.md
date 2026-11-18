@@ -24,6 +24,10 @@ Alicia 创作的免费 3D 互动花卉作品。打开浏览器，探索四季与
 
 [阅读双语创作手记](https://digitalgarden.si/zh/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [手势、声音与拍摄指南](https://digitalgarden.si/zh/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## 薰衣草移植实测 · 2026-11-17
+
+[实测摘要](notes/pixijs-3d-vs-threejs-webgpu.md) · [官网中文结果](https://digitalgarden.si/zh/blog/pixijs-3d-vs-threejs-webgpu/)
+
 ## Meshlets 与逐簇 LOD 桌面实测 · 2026-11-16
 
 - [简短摘要](notes/threejs-meshlets-cluster-lod.md) · [英文完整方法与原始数据](https://digitalgarden.si/blog/threejs-meshlets-cluster-lod/) · [中文实测摘要](https://digitalgarden.si/zh/blog/threejs-meshlets-cluster-lod/)

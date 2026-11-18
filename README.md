@@ -33,6 +33,10 @@ On a phone, a smaller circular patch keeps nearby flowers available for a full h
 
 [Read the making-of notes](https://digitalgarden.si/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [Controls, audio and capture guide](https://digitalgarden.si/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## Lavender porting study — 17 November 2026
+
+[Renderer and attribute checks](notes/pixijs-3d-vs-threejs-webgpu.md) · [Full study and runnable kit](https://digitalgarden.si/blog/pixijs-3d-vs-threejs-webgpu/)
+
 ## Meshlet desktop experiment — 16 November 2026
 
 - [Three integration checks](notes/threejs-meshlets-cluster-lod.md) · [Full original method and data](https://digitalgarden.si/blog/threejs-meshlets-cluster-lod/)

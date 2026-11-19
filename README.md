@@ -33,6 +33,10 @@ On a phone, a smaller circular patch keeps nearby flowers available for a full h
 
 [Read the making-of notes](https://digitalgarden.si/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [Controls, audio and capture guide](https://digitalgarden.si/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## WebGPU plant path tracing — 18 November 2026
+
+[The compilation and lighting experiment](notes/threejs-webgpu-path-tracing.md) · [Full study and runnable lab](https://digitalgarden.si/blog/threejs-webgpu-path-tracing/)
+
 ## Houdini 22 workbook and single-image reconstruction
 
 - [Machine learning workbook](notes/houdini-22-machine-learning-workbook.md) · [Digital Garden](https://digitalgarden.si/blog/houdini-22-machine-learning-workbook/)

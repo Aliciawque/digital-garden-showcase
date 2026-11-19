@@ -24,6 +24,10 @@ Alicia 创作的免费 3D 互动花卉作品。打开浏览器，探索四季与
 
 [阅读双语创作手记](https://digitalgarden.si/zh/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [手势、声音与拍摄指南](https://digitalgarden.si/zh/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## Three.js WebGPU 植物路径追踪 · 2026-11-18
+
+[实测摘要](notes/threejs-webgpu-path-tracing.md) · [官网中文实测](https://digitalgarden.si/zh/blog/threejs-webgpu-path-tracing/)
+
 ## Houdini 22 机器学习与单图高斯实测
 
 - [机器学习 13 课](notes/houdini-22-machine-learning-workbook.md) · [Digital Garden](https://digitalgarden.si/zh/blog/houdini-22-machine-learning-workbook/)

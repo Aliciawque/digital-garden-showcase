@@ -24,6 +24,10 @@ Alicia 创作的免费 3D 互动花卉作品。打开浏览器，探索四季与
 
 [阅读双语创作手记](https://digitalgarden.si/zh/about/?utm_source=github&utm_medium=referral&utm_campaign=showcase#making-of) · [手势、声音与拍摄指南](https://digitalgarden.si/zh/guide/?utm_source=github&utm_medium=referral&utm_campaign=showcase)
 
+## Three.js 分灯光照贴图 · 2026-11-21
+
+[实测摘要](notes/threejs-lightmap-lamp-toggle.md) · [官网中文原文与复现包](https://digitalgarden.si/zh/blog/threejs-lightmap-lamp-toggle/)
+
 ## Three.js 衍射箔片 · 2026-11-19
 
 [实测摘要](notes/threejs-holographic-foil-material.md) · [官网中文实测](https://digitalgarden.si/zh/blog/threejs-holographic-foil-material/)
